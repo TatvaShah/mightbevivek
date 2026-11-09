@@ -1,0 +1,346 @@
+{
+ "/images/advice-ap-elections.jpg": {
+  "w": 1206,
+  "h": 2144,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1206
+  ],
+  "base": "/images/_opt/advice-ap-elections.58b2fce490",
+  "stamp": "58b2fce490"
+ },
+ "/images/advice-chicken-roll.jpg": {
+  "w": 1206,
+  "h": 2144,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1206
+  ],
+  "base": "/images/_opt/advice-chicken-roll.f15eb18946",
+  "stamp": "f15eb18946"
+ },
+ "/images/advice-jailer.jpg": {
+  "w": 1206,
+  "h": 2144,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1206
+  ],
+  "base": "/images/_opt/advice-jailer.03b54e99f8",
+  "stamp": "03b54e99f8"
+ },
+ "/images/advice-kcr.jpg": {
+  "w": 1206,
+  "h": 2144,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1206
+  ],
+  "base": "/images/_opt/advice-kcr.7e838e84d4",
+  "stamp": "7e838e84d4"
+ },
+ "/images/hero-stage.jpg": {
+  "w": 1840,
+  "h": 3590,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1600,
+   1840
+  ],
+  "base": "/images/_opt/hero-stage.f359d87dd8",
+  "stamp": "f359d87dd8"
+ },
+ "/images/logo.png": {
+  "w": 150,
+  "h": 150,
+  "widths": [
+   96,
+   128,
+   150
+  ],
+  "base": "/images/_opt/logo.8532a074ff",
+  "stamp": "8532a074ff"
+ },
+ "/images/og-photo.jpg": {
+  "w": 480,
+  "h": 630,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/og-photo.c9743e4c34",
+  "stamp": "c9743e4c34"
+ },
+ "/images/portrait.jpg": {
+  "w": 900,
+  "h": 900,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   900
+  ],
+  "base": "/images/_opt/portrait.27c81f364b",
+  "stamp": "27c81f364b"
+ },
+ "/images/poster-hyderabad.jpg": {
+  "w": 1440,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1440
+  ],
+  "base": "/images/_opt/poster-hyderabad.e04755f1ba",
+  "stamp": "e04755f1ba"
+ },
+ "/images/reel-bhagat-jayanti.jpg": {
+  "w": 1206,
+  "h": 2144,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1206
+  ],
+  "base": "/images/_opt/reel-bhagat-jayanti.a5463c60dd",
+  "stamp": "a5463c60dd"
+ },
+ "/images/reel-dimagi.jpg": {
+  "w": 1206,
+  "h": 2144,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1206
+  ],
+  "base": "/images/_opt/reel-dimagi.60e9ff718d",
+  "stamp": "60e9ff718d"
+ },
+ "/images/reel-vizag.jpg": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   720
+  ],
+  "base": "/images/_opt/reel-vizag.7a1ee3760a",
+  "stamp": "7a1ee3760a"
+ },
+ "/images/stage-demonetisation.jpg": {
+  "w": 1206,
+  "h": 2144,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1206
+  ],
+  "base": "/images/_opt/stage-demonetisation.1483730059",
+  "stamp": "1483730059"
+ },
+ "/images/tour-poster.jpg": {
+  "w": 2000,
+  "h": 2000,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1600,
+   2000
+  ],
+  "base": "/images/_opt/tour-poster.adc06c6ace",
+  "stamp": "adc06c6ace"
+ },
+ "/images/yt-atheist.jpg": {
+  "w": 1280,
+  "h": 720,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1280
+  ],
+  "base": "/images/_opt/yt-atheist.b77e1ade69",
+  "stamp": "b77e1ade69"
+ },
+ "/images/yt-goat.jpg": {
+  "w": 1280,
+  "h": 720,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1280
+  ],
+  "base": "/images/_opt/yt-goat.3840608cc7",
+  "stamp": "3840608cc7"
+ },
+ "/images/yt-india-juice.jpg": {
+  "w": 1280,
+  "h": 720,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1280
+  ],
+  "base": "/images/_opt/yt-india-juice.ee7de29280",
+  "stamp": "ee7de29280"
+ },
+ "/images/yt-nithyananda.jpg": {
+  "w": 1280,
+  "h": 720,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1280
+  ],
+  "base": "/images/_opt/yt-nithyananda.20f0c01283",
+  "stamp": "20f0c01283"
+ },
+ "/images/yt-paranormal.jpg": {
+  "w": 1280,
+  "h": 720,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1280
+  ],
+  "base": "/images/_opt/yt-paranormal.7c3c56b135",
+  "stamp": "7c3c56b135"
+ },
+ "/images/yt-ritual.jpg": {
+  "w": 1280,
+  "h": 720,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1280
+  ],
+  "base": "/images/_opt/yt-ritual.84fac31294",
+  "stamp": "84fac31294"
+ }
+}
