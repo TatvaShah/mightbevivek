@@ -136,7 +136,7 @@ function Tour() {
             <Pic src="/images/tour-poster.jpg" alt="Sanity in Diversity tour poster with dates for Jupiter, Hyderabad, Chennai and Bengaluru" sizes="(max-width: 900px) 92vw, 34vw" />
           </div>
           <Stamp className="stamp-poster">Approved</Stamp>
-          <figcaption className="mono">Exhibit A: the poster. Ticket links live in his Instagram bio.</figcaption>
+          <figcaption className="mono">Exhibit A: the poster. Tickets from ₹499 on BookMyShow.</figcaption>
         </figure>
       </div>
     </section>

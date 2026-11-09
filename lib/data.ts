@@ -36,8 +36,8 @@ export type Show = { date: string; city: string; detail: string; href?: string; 
 export const shows: Show[] = [
   { date: "4 to 15 Nov", city: "Jupiter", detail: "As printed on the official poster. Travel desk has questions.", joke: true },
   { date: "Sun 22 Nov", city: "Hyderabad", detail: "The Comedy Theatre, 4:00 PM", href: TICKETS, cta: "Tickets" },
-  { date: "Sun 29 Nov", city: "Chennai", detail: "Ticket link posted on Instagram", href: IG, cta: "Ticket link" },
-  { date: "Sat 5 Dec", city: "Bengaluru", detail: "Ticket link posted on Instagram", href: IG, cta: "Ticket link" },
+  { date: "Sun 29 Nov", city: "Chennai", detail: "Venue and seats on the ticket page", href: TICKETS, cta: "Tickets" },
+  { date: "Sat 5 Dec", city: "Bengaluru", detail: "Venue and seats on the ticket page", href: TICKETS, cta: "Tickets" },
 ];
 
 export const specials = {
